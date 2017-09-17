@@ -1,0 +1,93 @@
+body{
+    background-color: lightslategray;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: monospace;
+    font-size: 72px;
+
+        
+    }
+
+p{
+    text-align: center;
+    font-family: tahoma;
+    font-size: 28px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.content{
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+   
+}
+
+.age-restrictions{
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.frequency{
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.reputation{
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.dr {
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.noah{
+    font-family: Courier;
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.factors{
+    font-family: serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+
+}
+
+.Youtubers{
+    font-family: serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+
+.Youtubers img{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    margin-bottom: 40px;
+}
